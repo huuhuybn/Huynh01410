@@ -1,0 +1,17 @@
+{
+    "name": "huuhu/huynh01410",
+    "autoload": {
+        "psr-4": {
+            "Huuhu\\Huynh01410\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HuyNguyen",
+            "email": "huuhuybn@gmail.com"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.11"
+    }
+}
